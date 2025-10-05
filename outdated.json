@@ -1,0 +1,177 @@
+{
+  "@ianvs/prettier-plugin-sort-imports": {
+    "current": "4.6.2",
+    "wanted": "4.7.0",
+    "latest": "4.7.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/@ianvs/prettier-plugin-sort-imports"
+  },
+  "@next/eslint-plugin-next": {
+    "current": "15.4.6",
+    "wanted": "15.5.4",
+    "latest": "15.5.4",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/@next/eslint-plugin-next"
+  },
+  "@playwright/test": {
+    "current": "1.54.2",
+    "wanted": "1.55.1",
+    "latest": "1.55.1",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/@playwright/test"
+  },
+  "@tailwindcss/postcss": {
+    "current": "4.1.11",
+    "wanted": "4.1.14",
+    "latest": "4.1.14",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/@tailwindcss/postcss"
+  },
+  "@types/node": {
+    "current": "24.2.1",
+    "wanted": "24.6.2",
+    "latest": "24.6.2",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/@types/node"
+  },
+  "@types/react": {
+    "current": "19.1.10",
+    "wanted": "19.2.0",
+    "latest": "19.2.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/@types/react"
+  },
+  "@types/react-dom": {
+    "current": "19.1.7",
+    "wanted": "19.2.0",
+    "latest": "19.2.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/@types/react-dom"
+  },
+  "@typescript-eslint/eslint-plugin": {
+    "current": "8.39.1",
+    "wanted": "8.45.0",
+    "latest": "8.45.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/@typescript-eslint/eslint-plugin"
+  },
+  "@typescript-eslint/parser": {
+    "current": "8.39.1",
+    "wanted": "8.45.0",
+    "latest": "8.45.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/@typescript-eslint/parser"
+  },
+  "@vitejs/plugin-react": {
+    "current": "5.0.0",
+    "wanted": "5.0.4",
+    "latest": "5.0.4",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/@vitejs/plugin-react"
+  },
+  "eslint": {
+    "current": "9.33.0",
+    "wanted": "9.37.0",
+    "latest": "9.37.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/eslint"
+  },
+  "eslint-config-next": {
+    "current": "15.4.6",
+    "wanted": "15.4.6",
+    "latest": "15.5.4",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/eslint-config-next"
+  },
+  "framer-motion": {
+    "current": "12.23.12",
+    "wanted": "12.23.22",
+    "latest": "12.23.22",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/framer-motion"
+  },
+  "jsdom": {
+    "current": "26.1.0",
+    "wanted": "26.1.0",
+    "latest": "27.0.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/jsdom"
+  },
+  "lint-staged": {
+    "current": "16.1.5",
+    "wanted": "16.2.3",
+    "latest": "16.2.3",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/lint-staged"
+  },
+  "lucide-react": {
+    "current": "0.539.0",
+    "wanted": "0.539.0",
+    "latest": "0.544.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/lucide-react"
+  },
+  "motion": {
+    "current": "12.23.12",
+    "wanted": "12.23.22",
+    "latest": "12.23.22",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/motion"
+  },
+  "next": {
+    "current": "15.4.6",
+    "wanted": "15.4.6",
+    "latest": "15.5.4",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/next"
+  },
+  "next-intl": {
+    "current": "4.3.4",
+    "wanted": "4.3.9",
+    "latest": "4.3.9",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/next-intl"
+  },
+  "react": {
+    "current": "19.1.1",
+    "wanted": "19.1.1",
+    "latest": "19.2.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/react"
+  },
+  "react-dom": {
+    "current": "19.1.1",
+    "wanted": "19.1.1",
+    "latest": "19.2.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/react-dom"
+  },
+  "tailwindcss": {
+    "current": "4.1.11",
+    "wanted": "4.1.14",
+    "latest": "4.1.14",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/tailwindcss"
+  },
+  "tw-animate-css": {
+    "current": "1.3.6",
+    "wanted": "1.4.0",
+    "latest": "1.4.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/tw-animate-css"
+  },
+  "typescript": {
+    "current": "5.9.2",
+    "wanted": "5.9.3",
+    "latest": "5.9.3",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/typescript"
+  },
+  "typescript-eslint": {
+    "current": "8.39.1",
+    "wanted": "8.45.0",
+    "latest": "8.45.0",
+    "dependent": "react-kolkata",
+    "location": "/home/runner/work/react-kolkata/react-kolkata/node_modules/typescript-eslint"
+  }
+}
